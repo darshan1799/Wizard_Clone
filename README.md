@@ -1,3 +1,6 @@
+
+---
+
 # Next.js & Tailwind UI Project
 
 A **Next.js** project styled with **Tailwind CSS** to enhance UI skills and improve Next.js knowledge.
@@ -12,6 +15,12 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view.
+
+---
+
+## Live Demo
+
+Check the live project here: [https://wizard-clone-ui.vercel.app/](https://wizard-clone-ui.vercel.app/)
 
 ---
 
