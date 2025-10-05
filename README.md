@@ -44,6 +44,6 @@ Open [http://localhost:3000](http://localhost:3000) to view.
 
 **Author:** Darshan Sutariya
 
-**Purpose:** Freelancing task to deliver a modern, responsive web UI using Next.js & Tailwind CSS
+**Purpose:** Personal project to master Next.js & Tailwind CSS
 
 ---
