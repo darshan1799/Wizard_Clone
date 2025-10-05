@@ -25,7 +25,7 @@ export default function WhyWe() {
               </div>
 
               <div className="absolute inset-0 flex items-center justify-center">
-                <div className="w-[60%] aspect-square rounded-full bg-white shadow-lg flex items-center justify-center overflow-hidden">
+                <div className="w-[50%] xl:w-[60%] aspect-square rounded-full bg-white shadow-lg flex items-center justify-center overflow-hidden">
                   <img
                     src="/whywe.png"
                     alt="Cleaning image"
@@ -38,13 +38,18 @@ export default function WhyWe() {
                 <FeatureCard
                   icon={Users}
                   title="Experienced Professional"
-                  className="translate-y-[-180px]"
+                  className="translate-y-[-150px] xl:translate-x-[-100px]"
                 />
-                <FeatureCard icon={Award} title="Reliability" className="" />
+                <FeatureCard
+                  icon={Award}
+                  title="Reliability"
+                  className="
+                translate-y-[-10px] xl:translate-x-[-200px] translate-x-[-70px]"
+                />
                 <FeatureCard
                   icon={Wrench}
                   title="Advanced Equipment"
-                  className="translate-y-[180px]"
+                  className="translate-y-[160px]  xl:translate-x-[-100px]"
                 />
               </div>
 
@@ -52,17 +57,17 @@ export default function WhyWe() {
                 <FeatureCard
                   icon={Leaf}
                   title="Eco-friendly Solutions"
-                  className="translate-y-[-180px]"
+                  className="translate-y-[-150px]  xl:translate-x-[100px]"
                 />
                 <FeatureCard
                   icon={DollarSign}
                   title="Best Price"
-                  className=""
+                  className="translate-x-[70px]   translate-y-[-10px] xl:translate-x-[200px]"
                 />
                 <FeatureCard
                   icon={Grid3x3}
                   title="Customized Services"
-                  className="translate-y-[180px]"
+                  className=" translate-y-[160px]  xl:translate-x-[100px]"
                 />
               </div>
             </div>
